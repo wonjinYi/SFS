@@ -1,0 +1,10 @@
+img_01 : https://www.carisyou.com/magazine/STATS/75168
+img_02 : http://www.gj.go.kr/gyeongjuimage/page.do?mnu_uid=2837&con_uid=1558&cmd=2&pageNo=6
+img_03 : https://www.joongang.co.kr/article/15499140
+img_04 : http://realty.chosun.com/site/data/html_dir/2018/02/14/2018021402214.html
+img_05 : https://www.kukinews.com/newsView/kuk202202030007
+img_06 : https://www.hankyung.com/car/article/2020032072032
+img_07 : http://news.bbsi.co.kr/news/articleView.html?idxno=985620
+img_08 : http://www.newspeak.kr/news/articleView.html?idxno=380530
+img_09 : http://www.theliving.co.kr/news/articleView.html?idxno=20534
+img_10 : https://www.ajunews.com/view/20220524104535713

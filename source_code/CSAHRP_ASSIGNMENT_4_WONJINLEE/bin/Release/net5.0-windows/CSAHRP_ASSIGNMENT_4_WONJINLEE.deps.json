@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSAHRP_ASSIGNMENT_4_WONJINLEE/1.0.0": {
+        "runtime": {
+          "CSAHRP_ASSIGNMENT_4_WONJINLEE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSAHRP_ASSIGNMENT_4_WONJINLEE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
