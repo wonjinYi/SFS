@@ -42,7 +42,8 @@ SFS는 소규모의 데이터 분류를 위한 도구입니다.
 
 ### 샘플데이터를 사용해 시작하기
 
-참조 영상 :
+참조 영상 : [LINK](https://youtu.be/QN5HU69spx8)
+[![샘플데이터를 사용해 시작하기 참조영상](https://img.youtube.com/vi/QN5HU69spx8/0.jpg)](https://www.youtube.com/watch?v=QN5HU69spx8)
 
 1. `program`폴더 안의 `.exe`로 끝나는 파일을 실행하여 메인화면을 표시합니다.
 2. 작업대상 디렉토리를 `sample_image_and_config`폴더로 지정합니다.
@@ -51,7 +52,8 @@ SFS는 소규모의 데이터 분류를 위한 도구입니다.
 
 ### 처음부터 시작하기
 
-참조 영상 :
+참조 영상 : [LINK](https://www.youtube.com/watch?v=S_sO1oor4F8)
+[![처음부터 시작하기 참조영상](https://img.youtube.com/vi/S_sO1oor4F8/0.jpg)](https://www.youtube.com/watch?v=S_sO1oor4F8)
 
 1. `program`폴더 안의 `.exe`로 끝나는 파일을 실행하여 메인화면을 표시합니다.
 2. **`설정파일 만들기`** 버튼을 클릭해 `.sfs`로 끝나는 설정파일을 생성합니다.
@@ -60,7 +62,8 @@ SFS는 소규모의 데이터 분류를 위한 도구입니다.
 
 # 작업 진행하기
 
-참조 영상 :
+참조 영상 : [LINK](https://youtu.be/tMm4sxRI5zQ)
+[![작업 진행하기 참조영상](https://img.youtube.com/vi/tMm4sxRI5zQ/0.jpg)](https://www.youtube.com/watch?v=tMm4sxRI5zQ)
 
 ### 구성요소
 
