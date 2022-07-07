@@ -7,6 +7,10 @@ SFS는 소규모의 데이터 분류를 위한 도구입니다.
 
 ![](./readmeImg.JPG)
 
+### 사용가능한 환경
+
+키보드와 마우스가 있으며 Windows가 설치된 PC
+
 ### Version
 
 - .NET framework : 5.0
